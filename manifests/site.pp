@@ -1,6 +1,6 @@
 node default {
   include conf
-  include http
+  #include http
 }
 node automation.salas4linux.com.br {
   include ansible
